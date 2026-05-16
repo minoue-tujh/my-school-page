@@ -7,4 +7,4 @@
 ## 中見出し
 ### 小見出し
 **前多先生が出版しました**
-［お茶中］(https://www.fz.ocha.ac.jp/ft/index.html)
+[お茶中](https://www.fz.ocha.ac.jp/ft/index.html)
